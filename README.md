@@ -1,2 +1,2 @@
-# CypressCode
-Cypress Code for Practice and reference purpose
+# Mobile Automation Practice Code
+Mobile Code for Practice and reference purpose
